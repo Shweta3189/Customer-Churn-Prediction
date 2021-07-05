@@ -1,4 +1,6 @@
 # Customer Retention
+
+Learnt about:
 What is Customer Churning ?
 What are the different Churn Scenarios ?
 Decision Cycle of a Subscriber ?
